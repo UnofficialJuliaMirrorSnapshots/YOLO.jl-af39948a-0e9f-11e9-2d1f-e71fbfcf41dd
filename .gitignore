@@ -1,0 +1,12 @@
+## Julia
+*.jl.*.cov
+*.jl.cov
+*.jl.mem
+.DS_Store
+Manifest.toml
+/dev/
+/deps/*
+!/deps/build.jl
+*.weights
+/data/datasets/voc2007/VOCdevkit
+/data/datasets/voc2007/._VOCdevkit
